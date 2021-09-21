@@ -1,4 +1,4 @@
-from yes import face_analysis
+from yolo import face_analysis
 import numpy as np
 import cv2
 import dlib
